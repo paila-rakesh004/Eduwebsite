@@ -1,0 +1,27 @@
+ *{
+    background-image: url('wallpaper.jpg');
+    color: red;
+ }
+ h2{
+    display: inline;
+    color : rgb(192, 24, 24);
+    padding-left: 30px;
+    
+ }
+ a{
+    text-decoration: none;
+    text-align: right;
+ }
+ h3{
+    display: inline;
+    padding-left: 1000px;
+    text-decoration: none;
+    color : rgb(202, 26, 26);
+ }  
+ footer{
+    padding-top: 550px;
+    text-align: center;
+ }
+ header{
+    text-align: center;
+ }
